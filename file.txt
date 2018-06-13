@@ -1,1 +1,5 @@
-nothing much
+What is Web Scraping?
+Web scraping is a computer software technique of extracting information from websites.
+This technique mostly focuses on the transformation of unstructured data (HTML format)on the web into structured data (database or spreadsheet).
+
+Python  has a library known as ‘BeautifulSoup’ which assists this task.
